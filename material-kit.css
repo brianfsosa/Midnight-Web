@@ -8699,7 +8699,7 @@ select.selectpicker {
 
 .presentation-page .section-components .title,
 .index-page .section-components .title {
-    margin-top: 140px;
+    margin-top: 54px;
     margin-bottom: 5px;
 }
 
@@ -9754,4 +9754,7 @@ select.selectpicker {
     .main.main-raised .container {
         width: 920px;
     }
+}
+.no-margin {
+    margin-top: 50px;
 }
